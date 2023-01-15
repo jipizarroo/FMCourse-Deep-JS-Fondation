@@ -10,3 +10,4 @@
   * [Cases of Coercion](coercion/cases-of-coercion.md)
   * [Boxing](coercion/boxing.md)
   * [Corner Cases of Coercion.](coercion/corner-cases-of-coercion..md)
+* [Philosophy of Coercion](philosophy-of-coercion.md)

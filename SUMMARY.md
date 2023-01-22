@@ -11,4 +11,5 @@
   * [Boxing](coercion/boxing.md)
   * [Corner Cases of Coercion.](coercion/corner-cases-of-coercion..md)
 * [Philosophy of Coercion](philosophy-of-coercion.md)
-* [Equality](equality.md)
+* [Equality](equality/README.md)
+  * [Kyle Simpson Quote](equality/kyle-simpson-quote.md)

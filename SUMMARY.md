@@ -13,3 +13,4 @@
 * [Philosophy of Coercion](philosophy-of-coercion.md)
 * [Equality](equality/README.md)
   * [Kyle Simpson Quote](equality/kyle-simpson-quote.md)
+* [Static Typing.](static-typing..md)

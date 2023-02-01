@@ -14,3 +14,5 @@
 * [Equality](equality/README.md)
   * [Kyle Simpson Quote](equality/kyle-simpson-quote.md)
 * [Static Typing.](static-typing..md)
+* [Scope](scope/README.md)
+  * [Compilation & scope.](scope/compilation-and-scope..md)

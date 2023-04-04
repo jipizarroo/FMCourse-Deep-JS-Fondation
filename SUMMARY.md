@@ -16,3 +16,6 @@
 * [Static Typing.](static-typing..md)
 * [Scope](scope/README.md)
   * [Compilation & scope.](scope/compilation-and-scope..md)
+  * [Dynamic Global Variables](scope/dynamic-global-variables.md)
+  * [Undefined vs undeclared](scope/undefined-vs-undeclared.md)
+  * [Untitled](scope/untitled.md)
